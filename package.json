@@ -1,0 +1,18 @@
+{
+  "name": "com.martanowak.shakekit",
+  "version": "0.1.0",
+  "displayName": "ShakeKit",
+  "description": "Curve-driven camera shake with additive layers and per-profile falloff.",
+  "unity": "2022.3",
+  "license": "MIT",
+  "author": {
+    "name": "Marta Nowak",
+    "url": "https://qob5c2b7d0.github.io"
+  },
+  "keywords": [
+    "camera",
+    "shake",
+    "game-feel",
+    "unity"
+  ]
+}
